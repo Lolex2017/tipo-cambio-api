@@ -1,4 +1,4 @@
-package controller;
+package com.indra.apirest.controller;
 
 
 import com.indra.apirest.model.TipoCambio;
